@@ -1,0 +1,22 @@
+﻿input[type=search]{
+    font-size:30px;
+    margin:29px 9px 9px 17px;
+    background-color:#ffffed;
+    height:60px;
+    width:380px;
+    font-size:22px;
+    padding:10px;
+}
+*{
+    background-color:#f7f3f2;
+}
+
+div.header{
+    font-size:28px;
+    direction:rtl;
+    background-color:darkgoldenrod;
+}
+table.First{
+    direction:rtl;
+
+}
